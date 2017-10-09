@@ -1,1 +1,1 @@
-# TandMSlider
+# TiAutoslider
